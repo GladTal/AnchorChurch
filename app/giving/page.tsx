@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Giving — Anchor Church",
@@ -66,10 +67,16 @@ export default function Giving() {
               <p className="text-[#1c2b3a]/65 text-sm leading-relaxed">
                 Give securely online — one time or recurring. Our online giving portal makes it simple and safe to support the church from anywhere.
               </p>
-              <button className="mt-2 bg-[#1c2b3a] text-white font-bold px-6 py-3 rounded-full text-xs tracking-widest uppercase hover:bg-[#243345] transition-colors w-fit">
+              {/* <button className="mt-2 bg-[#1c2b3a] text-white font-bold px-6 py-3 rounded-full text-xs tracking-widest uppercase hover:bg-[#243345] transition-colors w-fit">
                 Give Online
-              </button>
-              <p className="text-[#1c2b3a]/40 text-xs italic">Online giving link coming soon. Contact us for current options.</p>
+              </button> */}
+              <Link
+                href="https://anchordc.churchcenter.com/giving"
+                className="mt-2 bg-[#1c2b3a] text-white font-bold px-6 py-3 rounded-full text-xs tracking-widest uppercase hover:bg-[#243345] transition-colors w-fit"
+              >
+                Give Online
+              </Link>
+              <p className="text-[#1c2b3a]/40 text-xs italic">This link will take you to our Church Center online giving web page.</p>
             </div>
 
             <div className="bg-white rounded-2xl p-8 flex flex-col gap-4">
