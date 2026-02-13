@@ -30,15 +30,17 @@ export default function About() {
             <div>
               <p className="text-[#1c2b3a]/50 text-xs tracking-widest uppercase mb-3">Our Mission</p>
               <h2 className="text-3xl md:text-4xl font-extrabold text-[#1c2b3a] mb-6 tracking-tight leading-tight">
-                ANCHORED IN FAITH,<br />ROOTED IN LOVE
+                Anchor Church exists so that all may know Jesus Christ and the power of His love. 
               </h2>
               <p className="text-[#1c2b3a]/65 text-base leading-relaxed mb-4">
-                At Anchor Church, we believe that Jesus Christ is the anchor for every storm of life.
-                Our mission is to help people know God, find community, and live on purpose.
+                Anchor Church is a Spirit-Filled Word of Faith Church that believes the Love of God is one of the greatest gifts believers have been given in Jesus Christ. We believe Gods miracle working power is available and active today.
               </p>
               <p className="text-[#1c2b3a]/65 text-base leading-relaxed">
-                We gather every Sunday to worship, study God&apos;s Word, and encourage one another —
-                and we scatter throughout the week to love and serve our neighbors in Oakton and beyond.
+                We are a new church plant in the Washington D.C.  Metro area.  We believe with God nothing is impossible!  Our theme text is from the Gospel of Mark chapter 11 verse 22 where Jesus said, “Have faith in God.” — No matter where you are in life or what you are going through faith in God will change you. God loves you and has a great plan for your life. Jesus is the savior of the world and through a relationship with Him, by accepting Him, we are made right with God and become a whole new person.
+              </p>
+              <br />
+              <p className="text-[#1c2b3a]/65 text-base leading-relaxed">
+                We believe in presenting the word of God in a down to earth way that you are able to grab hold of while making room for the Spirit of God to move and to do his work in and through us. — The word of God and presence of God are real and will change your life!
               </p>
             </div>
             <div className="bg-[#1c2b3a] rounded-2xl p-10 text-center">
