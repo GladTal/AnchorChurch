@@ -79,8 +79,8 @@ export default function NewHere() {
                   <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z" />
                 </svg>
                 <div>
-                  <p className="text-[#1c2b3a] font-semibold">Oakton, Virginia</p>
-                  <p className="text-[#1c2b3a]/60 text-sm">Northern Virginia</p>
+                  <p className="text-[#1c2b3a] font-semibold">Oakton Elementary School</p>
+                  <p className="text-[#1c2b3a]/60 text-sm">3000 Chain Bridge Rd, Oakton, VA 22124</p>
                 </div>
               </div>
               <div className="border-t border-[#1c2b3a]/10 pt-4">

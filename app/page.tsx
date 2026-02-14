@@ -55,7 +55,8 @@ export default function Home() {
                 <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z" />
               </svg>
               <h3 className="font-bold text-[#1c2b3a] text-sm tracking-widest uppercase">Location</h3>
-              <p className="text-[#1c2b3a]/65 text-sm leading-relaxed">Oakton, Virginia</p>
+              <p className="text-[#1c2b3a]/65 text-sm leading-relaxed">3000 Chain Bridge Rd, Oakton, VA 22124</p>
+              <p className="text-[#1c2b3a]/65 text-sm leading-relaxed">Inside Oakton Elementary School</p>
             </div>
             <div className="bg-[#1c2b3a] rounded-2xl p-8 flex flex-col items-center gap-3 text-center">
               <svg className="w-10 h-10 text-white mb-1" fill="none" stroke="currentColor" strokeWidth={1.5} viewBox="0 0 24 24">

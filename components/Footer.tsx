@@ -29,10 +29,8 @@ export default function Footer() {
               />
               <span className="font-extrabold text-base tracking-widest uppercase">Anchor Church</span>
             </Link>
-            <p className="text-white/55 text-sm italic leading-relaxed">
-              &ldquo;Have faith in God.&rdquo; &mdash; Jesus
-            </p>
-            <p className="text-white/55 text-sm">Oakton, Virginia</p>
+            <p className="text-white/55 text-sm">Oakton Elementary School</p>
+            <p className="text-white/55 text-sm">3000 Chain Bridge Rd, Oakton, VA 22124</p>
             <p className="text-white/55 text-sm">Sundays at 10:30am EST</p>
           </div>
 
@@ -95,7 +93,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-white/10 mt-12 pt-6 text-center text-white/35 text-xs">
-          &copy; {new Date().getFullYear()} Anchor Church &mdash; Oakton, Virginia. All rights reserved.
+          &copy; {new Date().getFullYear()} Anchor Church. All rights reserved.
         </div>
       </div>
     </footer>
