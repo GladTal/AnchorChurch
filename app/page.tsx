@@ -23,7 +23,7 @@ export default function Home() {
             &ldquo;Have faith in God.&rdquo; &mdash; Jesus
           </p>
           <p className="text-sm md:text-base text-white/45 mb-12 tracking-widest uppercase">
-            Oakton, Virginia &nbsp;&middot;&nbsp; Sundays at 10:30am EST
+            Oakton Elementary School &nbsp;&middot;&nbsp; Sundays at 10:30am EST
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
